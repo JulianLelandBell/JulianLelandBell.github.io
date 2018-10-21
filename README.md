@@ -1,2 +1,3 @@
-# rlstevenson_mod
-Update of rlstevenson Jekyll theme (https://github.com/ExchangeRate-API/rlstevenson-jekyll-theme)
+# Julian Leland Bell - Robotics, Manufacturing, Mechanical Design
+
+Julian Leland Bell's personal website/portfolio.
