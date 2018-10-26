@@ -64,14 +64,14 @@ li {
 
 /* PROJECT GRID CONTENT */
 .portfolio-item {
-    margin: 5px;
+    margin: 1%;
     padding: 0px;
-    width: 30%;
+    width: 28%;
 }
 
 @media (max-width: 768px) {
  	.portfolio-item {
- 	width: 45%;
+ 	width: 48%;
  	height: 100%;
  	}
 }
@@ -152,7 +152,7 @@ li {
 
 @media (max-width: 768px) {
 	.content {
-		text-align: center;
+		
 	}
 	.project-text {
 		text-align: left;
@@ -166,6 +166,7 @@ li {
     	margin-left: 400px;
     	width: 66.666%;
     	right: 0;
+
     }
 }
 

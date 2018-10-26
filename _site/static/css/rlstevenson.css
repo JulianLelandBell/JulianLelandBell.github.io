@@ -56,9 +56,9 @@ li {
 
 /* PROJECT GRID CONTENT */
 .portfolio-item {
-  margin: 5px;
+  margin: 1%;
   padding: 0px;
-  width: 30%; }
+  width: 28%; }
 
 @media (max-width: 768px) {
   .portfolio-item {
@@ -127,9 +127,6 @@ li {
   overflow-y: auto; }
 
 @media (max-width: 768px) {
-  .content {
-    text-align: center; }
-
   .project-text {
     text-align: left;
     padding-right: 3em;
