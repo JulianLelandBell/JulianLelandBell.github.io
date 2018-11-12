@@ -5,7 +5,7 @@ permalink: /projects/barrett
 subtitle:
 rollover-text:
 project-type: engineering
-project-priority: 1
+project-priority: 5
 cover-img: BT_0_sm.jpg
 
 
