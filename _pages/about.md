@@ -17,6 +17,8 @@ My scholarship has focused specifically on problems in manipulator design for co
 - [American Conference of Construction Lawyers 29th Annual Meeting]({{"https://www.accl.org/"}})
 - [University of Illinois at Urbana-Champaign Guest Lecture]({{"https://arch.illinois.edu/node/646"}})
 
+My current resumé can be seen [here](/assets/Resume-JLB_11-2018_Public.pdf).
+
 This site showcases a selection of the projects I've worked on throughout my career. All information and documentation presented here is provided with no warranty/guarantee whatsoever - use at your own risk. The views and opinions expressed here are my own, and do not necessarily reflect those of the organizations with which I work.
 
 <h3>Contact</h3>
