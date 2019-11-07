@@ -26,9 +26,9 @@ images:
 
 ---
 
-I currently work in the Advanced R&D Group at [Desktop Metal]({{"https://www.desktopmetal.com/"}}), where I develop new metal additive manufacturing technologies. Desktop Metal is a great company to work for, and we're always hiring - please check out our [careers page]({{"https://boards.greenhouse.io/desktopmetal"}})!
+From 2017-2019, I worked in the Advanced R&D Group at [Desktop Metal]({{"https://www.desktopmetal.com/"}}), where I developed new metal additive manufacturing technologies. Desktop Metal is a great company to work for, and they are always hiring - please check out their [careers page]({{"https://boards.greenhouse.io/desktopmetal"}})!
 
-While I can't talk about the work I do for Desktop, I can talk about the work that I've done *with* Desktop - or, more precisely, with the help of Desktop Metal's awesome Studio Printer. 
+While I can't talk about the work I did for Desktop, I can talk about the work that I've done *with* Desktop - or, more precisely, with the help of Desktop Metal's awesome Studio Printer. 
 
 <h3>Lathe Gear</h3>
 I was lucky enough to track down the [original chase screw-cutting mechanism]({{"http://www.lathes.co.uk/ames/page3.html"}}) for my [Ames lathe]({{"/projects/ameslathe"}}). Unfortunately, the mechanism was missing one critical part - the gear that links the mechanism to the spindle of the lathe! The gear is a non-standard size, and it was going to be prohibitively expensive to have a new one manufactured by a professional gear shop. Instead, with the help of our awesome Applications Engineering team, I was able to design and print a replacement in 17-4 stainless steel. 
